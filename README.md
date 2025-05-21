@@ -1,6 +1,3 @@
-# Save the formatted README content into a .md file
-
-readme_content = """
 # 🍷 Red Wine Quality Classification
 
 This project explores the *Red Wine Quality dataset* from Kaggle, aiming to predict whether a red wine is of good quality or not using a variety of classification models.
