@@ -50,7 +50,6 @@ Here’s an overview of the steps followed in this project:
 ## 📊 Results & Insights
 
 - *Top Features*: Alcohol, Sulphates, and Volatile Acidity emerged as key predictors of wine quality.  
-- *Best Model*: [Insert model name here, e.g., Random Forest] delivered the highest accuracy on the test set.  
 
 ## 🥂 Conclusion
 
@@ -59,4 +58,3 @@ This project provided valuable insights into wine quality prediction using machi
 ---
 
 If you found this useful or interesting, feel free to ⭐ the repo — cheers!
-"""
